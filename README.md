@@ -49,7 +49,7 @@
 Вы можете скачать [**Репозиторий**](https://github.com/MorinCerber/BlumAutofarm клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
 git clone https://github.com/MorinCerber/BlumAutofarm.git
-cd BlumTelegramBot
+cd BlumAutofarm
 ```
 
 Затем для автоматической установки введите:
@@ -77,9 +77,9 @@ python3 main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/BlumBotNebes >>> python3 main.py --action (1/2)
+~/BlumAutofarm >>> python3 main.py --action (1/2)
 # Or
-~/BlumBotNebes >>> python3 main.py -a (1/2)
+~/BlumAutofarm >>> python3 main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
@@ -98,9 +98,9 @@ python main.py
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
-~/BlumBotNebes >>> python main.py --action (1/2)
+~/BlumAutofarm >>> python main.py --action (1/2)
 # Или
-~/BlumBotNebes >>> python main.py -a (1/2)
+~/BlumAutofarm >>> python main.py -a (1/2)
 
 # 1 - Запускает кликер
 # 2 - Создает сессию
