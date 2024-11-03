@@ -1,7 +1,5 @@
 # BlumAutofarm
 
-# BlumBotNebes
-
 
 ## Рекомендация перед использованием
 
